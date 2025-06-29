@@ -1,6 +1,6 @@
 {
-  "name": "Vendetta Pure Magenta AMOLED v1.2.5",
-  "description": "AMOLED theme with #000000 black backgrounds, #ffffff text, and pure #ff00ff magenta highlights.",
+  "name": "Vendetta Magenta AMOLED v1.2.6",
+  "description": "Balanced AMOLED theme with pure black, white UI text, and selective #ff00ff magenta highlights.",
   "authors": [
     {
       "name": "Taki_Shiwa",
@@ -177,12 +177,12 @@
       "#ff00ff"
     ],
     "HEADER_PRIMARY": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "INFO_DANGER_BACKGROUND": [
       "#000000",
@@ -237,16 +237,16 @@
       "#ff00ff"
     ],
     "INTERACTIVE_HOVER": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "INTERACTIVE_MUTED": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "LOGO_PRIMARY": [
       "#83a598",
@@ -309,28 +309,28 @@
       "#ff00ff"
     ],
     "TEXTBOX_MARKDOWN_SYNTAX": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_DANGER": [
       "#ff00ff",
       "#ff00ff"
     ],
     "TEXT_LINK": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ff00ff",
-      "#ff00ff"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_POSITIVE": [
       "#ff00ff",
